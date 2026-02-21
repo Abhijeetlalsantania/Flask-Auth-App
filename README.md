@@ -44,29 +44,29 @@ git clone https://github.com/Your-UserName/FlaskAuth-App.git
 
 ```
 
-# 2️⃣ Navigate into the folder 
+## 2️⃣ Navigate into the folder 
 
 cd FlaskAuth-App
 
-# 3️⃣ Create Virtual Environment (recommended)
+## 3️⃣ Create Virtual Environment (recommended)
 
 python -m venv venv
 
-# 4️⃣ Activate virtual Environment 
+## 4️⃣ Activate virtual Environment 
 
 venv\Scripts\activate
 
-# 5️⃣ Install dependencies
+## 5️⃣ Install dependencies
 
 pip install flask flask_sqlalchemy bcrypt
 
-# 6️⃣ Run the application 
+## 6️⃣ Run the application 
 
 Run Application using command : python app.py
 
 ---
 
-# 7️⃣ 🌐 Deployment
+## 7️⃣ 🌐 Deployment
 
 This project is ready for deployment on platforms like:
 
